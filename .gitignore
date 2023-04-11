@@ -1,0 +1,5 @@
+# Calcite Connection Output
+target/
+
+# Intelij IDEA Settings
+.idea/
